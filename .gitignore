@@ -1,0 +1,6 @@
+/.venv
+/build
+/dist
+/EA_utils.egg-info
+/pyproject.toml
+/README.md
